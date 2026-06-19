@@ -50,6 +50,9 @@ Analyze product ratings and sales
 Track revenue trends
 Improve profitability through data-driven decisions
 
+# dashboard preview
+dashboard-preview.png
+
 # Author
 Vishwaj Kummari
 linkedin: https://www.linkedin.com/in/vishwaj-kummari
